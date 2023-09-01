@@ -6,6 +6,7 @@ pip install these modules
 
 pandas: data processing
 numpy: linear algebra
+
 seaborn: data visualization
 matplotlib: data visualization
 re: regular expression
