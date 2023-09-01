@@ -5,14 +5,21 @@ Modules
 pip install these modules
 
 pandas: data processing
+
 numpy: linear algebra
 
 seaborn: data visualization
+
 matplotlib: data visualization
+
 re: regular expression
+
 datetime: manipulate date time types of data
+
 os: create folders
+
 PTL: image processing
+
 wordcloud: word cloud creating
 
 Data Source
